@@ -1,0 +1,19 @@
+{
+  "wheel_id": 343,
+  "structure": "umbrella",
+  "slug": "ballaratmortgagebroker-com-151",
+  "project": "mortgage-broker-ballarat-7c1221ed77ea8bda10dc9d3f9a7875529c63c0",
+  "parent_t1_ref": "ballaratmortgagebroker.com-004",
+  "node_role": "buffer",
+  "money_target": "ballaratmortgagebroker.com.au",
+  "primary_kw": "mortgage broker ballarat",
+  "intended_url": "https://aumedia.neocities.org/mortgage-broker-ballarat-7c1221ed77ea8bda10dc9d3f9a7875529c63c0/",
+  "writeback_nonce": "8add855763716908",
+  "links": [
+    {
+      "target_url": "https://sites-e470-1.web.app/mortgage-broker-ballarat-004/",
+      "anchor": "mortgage broker ballarat",
+      "rel": "follow"
+    }
+  ]
+}
